@@ -1,7 +1,14 @@
 # The-Kaggle-Book-2nd-Edition
 Code Repository for The Kaggle Book 2nd Edition, Published by Packt
 
+This new edition of the Kaggle Books is thought to update readers with the latest advancements in data science and machine learning, particularly the transformative impact of Generative AI and LLMs on data science competitions. It aims to equip readers with cutting-edge techniques relevant to the current ecosystem.
+
+Readers will acquire all the skills from the first edition, plus advanced knowledge in handling time-series and 3D data, leveraging LLMs for various tasks, and participating in the new wave of Generative AI competitions. They will also be proficient with modern experiment-tracking tools.
+
 # Key Updates & Highlights
+
+The structure of the book is reorganized with the addition of two entirely new chapters: **Kaggle Models** and **Generative AI in Kaggle Competitions**.
+Many original chapters are renumbered to accommodate this new material and are significantly expanded with updated examples and more advanced techniques.
 
 | Topic | Why It Matters | Second Edition Upgrade |
 | :--- | :--- | :--- |

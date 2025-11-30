@@ -1,3 +1,3 @@
-# Ensembling with Blending and Stacking Solutions
+# Chapter 10: Ensembling with Blending and Stacking Solutions
 
-This chapter explains ensembling techniques for multiple models such as averaging, blending, and stacking. We will provide you with some theory, some practice, and some code examples you can use as templates when building your own solutions on Kaggle.
+This chapter illustrates how ensembling models can boost results beyond tuning hyperparameters alone. It reviews fundamental concepts like bagging and gradient boosting. Techniques for multiple models discussed include **averaging models** (useful when models are highly diverse), **blending** (splitting data for a meta-learner), and the more complex **stacking** (using cross-validation to generate out-of-fold predictions for a meta-model). The concept of ensemble selection is also introduced, where models are iteratively added to an ensemble if they improve the holdout score. The chapter emphasizes that ensembling is often considered an "art form."

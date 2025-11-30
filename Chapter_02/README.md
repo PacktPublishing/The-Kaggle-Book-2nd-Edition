@@ -1,0 +1,3 @@
+# Chapter 2: Organizing Data with Datasets
+
+This chapter begins the technical part of the book by focusing on leveraging the **Kaggle Datasets** functionality. It covers key topics such as setting up a dataset, gathering the data, working with datasets, using Kaggle datasets in Google Colab, and legal caveats. You can upload any data that fits within the size requirements, including tabular data, images, or text. As of the time of writing, specific limits include **200 GB per private dataset** and an overall 200 GB maximum for private datasets. Data can be sourced via uploading a local file, a remote URL, a public GitHub repository, output files from an existing notebook, or a Google Cloud Storage file.

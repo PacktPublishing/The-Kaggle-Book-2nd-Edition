@@ -1,0 +1,3 @@
+# Chapter 13: Generative AI in Kaggle Competitions
+
+This chapter discusses how **Large Language Models (LLMs)** are used in competitive data science, spanning the entire machine learning pipeline from data cleaning to code generation. It focuses on mastering key skills such as prompt engineering, fine-tuning open-source models like Google's Gemma (often using lightweight methods like LoRA), and implementing advanced techniques like **Retrieval-Augmented Generation (RAG)** to build specialized AI assistants. Case studies include fine-tuning Gemma 2 for underrepresented languages, prompt recovery (reverse-engineering hidden instructions), and creating Python AI Assistants.

@@ -1,3 +1,3 @@
-# Modeling for Tabular Competitions
+# Chapter 8: Modeling for Tabular Competitions
 
-This chapter discusses tabular competitions, mostly focusing on the more recent reality of Kaggle, the Tabular Playground Series. Tabular problems are standard practice for the majority of data scientists around and there is a lot to learn from Kaggle.
+This chapter focuses on specialized techniques for tabular data problems, prompted by the creation of the Tabular Playground Series in 2021. The recommended effective pipeline includes Explorative Data Analysis (EDA), Data Preparation, Modeling (with cross-validation), Post-processing, and Submission. Techniques discussed include setting a random state for reproducibility, using EDA tools like **t-SNE and UMAP** to discover patterns, feature engineering (such as column frequency statistics), and specialized techniques like target encoding, pseudo-labeling, and denoising autoencoders (DAEs). It confirms that gradient boosting algorithms still dominate, but mixing diverse models produces better ensemble results.

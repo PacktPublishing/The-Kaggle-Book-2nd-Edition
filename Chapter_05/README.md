@@ -1,0 +1,3 @@
+# Chapter 5: Leveraging Discussion Forums
+
+Discussion forums are the primary means of information exchange on Kaggle. This chapter presents how the forums work, including sorting options (like Hotness) and filters (Recency, My Activity, Admin, Types, and Tags). It covers using discussions for competitions, offering a compromise between sharing insights (to give back to the community) and protecting a competitive advantage. The section on **Netiquette** covers key points for interacting, such as avoiding assumptions, keeping comments short and specific, and providing information rather than opinions. Engaging in discussions helps put communication skills and community engagement to work, fostering collaboration and enhancing networking opportunities.

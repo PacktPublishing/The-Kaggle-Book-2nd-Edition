@@ -1,3 +1,3 @@
-# Modeling for Computer Vision
+# Chapter 11: Modeling for Computer Vision
 
-In this chapter, we discuss problems related to computer vision, one of the most popular topics in AI in general, and on Kaggle specifically. We demonstrate full pipelines for building solutions to challenges in image classification, object detection, and image segmentation.
+This chapter provides an overview of essential topics related to computer vision in Kaggle competitions. It begins with **augmentation strategies** (offline or online) used to extend the generalization capabilities of algorithms, highlighting Keras's built-in functionality and the Albumentations package. It demonstrates end-to-end pipelines for three frequently encountered problems: image classification (using models like EfficientNet B0), object detection (using frameworks like YOLOv5), and semantic segmentation (using frameworks like Detectron2 and handling Run-Length Encoding). It emphasizes practical considerations like the 9-hour runtime limit on Code competitions.

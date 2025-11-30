@@ -1,3 +1,3 @@
-# Designing Good Validation
+# Chapter 7: Designing Good Validation
 
-This chapter will introduce you to the importance of validation in data competitions, discussing overfitting, shake-ups, leakage, adversarial validation, different kinds of validation strategies, and strategies for your final submissions.
+This chapter emphasizes that having good validation is the most important thing to keep in mind when entering a competition. It discusses the concept of **shake-ups**—revolutions in rankings between the public and private leaderboards—and strategies to mitigate them. Key advice includes correlating local scores with the public leaderboard and testing models using **adversarial validation** to reveal if the test distribution is similar to the training data. For optimal results, you should trust your validation score more than the leaderboard score, especially when exploring magic features or leakages. The chapter details different cross-validation schemes, including nested cross-validation.

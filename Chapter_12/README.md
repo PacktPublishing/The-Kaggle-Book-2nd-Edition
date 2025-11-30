@@ -1,3 +1,3 @@
-# Modelling for NLP
+# Chapter 12: Modeling for NLP
 
-This chapter focuses on the frequently encountered types of Kaggle challenges related to natural language processing. We demonstrate how to build an end-to-end solution for popular problems like open domain question answering.
+This chapter covers natural language processing (NLP) problems. It demonstrates the construction of pipelines for sentiment attribution (e.g., using DistilBERT embeddings) and open domain question answering (Q&A). The chapter illustrates feature engineering techniques, including the extraction of simple summary statistics ("vintage" features), generating embeddings from pre-trained models like the Universal Sentence Encoder, and using TF-IDF representations. It discusses using validation schemes like **GroupKFold** to prevent information leakage when one question has multiple answers. Finally, it details text augmentation strategies, covering basic techniques like synonym replacement and the use of the `nlpaug` package.

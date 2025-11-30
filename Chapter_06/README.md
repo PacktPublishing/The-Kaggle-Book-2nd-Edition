@@ -1,3 +1,3 @@
-# Competition Tasks and Metrics
+# Chapter 6: Competition Tasks and Metrics
 
-This chapter details how evaluation metrics for certain kinds of problems strongly influence the way you can operate when building your model solution in a data science competition. The chapter also addresses the large variety of metrics available in Kaggle competitions.
+This chapter emphasizes that understanding the **target metric** is crucial for scoring highly in any competition. The metric details, including the formula, code to reproduce it, and submission file format, can be found in the Evaluation tab on the competition's Overview page. The chapter also introduces the **Meta Kaggle dataset**—a collection of rich data about Kaggle's community and activity—which can be used to analyze metrics and competition data. It highlights the need to handle never-before-seen metrics, noting that in recent years, typically two competitions out of every three required studying and understanding a metric from scratch.

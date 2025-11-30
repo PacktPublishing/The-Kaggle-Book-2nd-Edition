@@ -1,0 +1,3 @@
+# Chapter 4: Selecting a Kaggle Model
+
+This chapter focuses on **Kaggle Models**, a repository intended to be a specialized subset of Datasets for discovering, using, and sharing public pretrained models for machine learning. It covers selecting a model based on various filters (task, modality, framework, language, license, and size). Using a model involves accessing its Model Details page, which contains the Model Card, literature references, and Model Variations. Selecting a pretrained model and using it has become an essential skill, especially as more competitions rely on language models. The repository also allows users to upload their own models, separating models from data.

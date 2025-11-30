@@ -1,3 +1,3 @@
-# Hyperparameter Optimization
+# Chapter 9: Hyperparameter Optimization
 
-This chapter explores how to extend the cross-validation approach to find the best hyperparameters for your models – in other words, those that can generalize in the best way on the private leaderboard – under the pressure and scarcity of time and resources that you experience in Kaggle competitions.
+This chapter discusses hyperparameter optimization as a crucial way to increase model performance. It details basic optimization techniques in scikit-learn, including grid search, random search, and the newer halving search algorithms. It provides guidance on key parameters for common models like LightGBM, XGBoost, and CatBoost. The chapter then progresses to **Bayesian optimization**, exploring practical applications using frameworks like scikit-optimize, KerasTuner (useful for neural architecture search), and Optuna. Experiment tracking using **Weights & Biases (W&B)** is also covered for logging metrics, versioning artifacts, and running automated hyperparameter sweeps.

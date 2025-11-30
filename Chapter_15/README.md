@@ -1,3 +1,3 @@
-# Creating Your Portfolio of Projects and Ideas
+# Chapter 15: Creating Your Portfolio of Projects and Ideas
 
-This chapter explores ways you can stand out by showcasing your work on Kaggle itself and other sites in an appropriate way.
+This chapter discusses leveraging competition efforts to build a strong professional portfolio. A portfolio should be a specifically engineered sample of your best work on Kaggle, not just all public notebooks. Recommended content includes solutions for ranking, EDA, tutorials, or fresh model implementations from papers. It strongly recommends using Kaggle Notebooks and Kaggle Datasets to showcase working solutions, but also encourages maintaining an online presence beyond Kaggle via **GitHub, personal blogs, or publications like Medium and Dev.to**, as these are more routinely used by recruiters.
